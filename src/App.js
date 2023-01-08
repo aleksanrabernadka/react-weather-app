@@ -13,7 +13,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Open-sourced
+            Open-sourced{" "}
           </a>
           on Github
         </footer>
